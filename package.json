@@ -1,0 +1,11 @@
+{
+    "title": "New Event",
+    "date": "2024-10-01",
+    "location": "Asmara",
+    "dependencies": {
+        "body-parser": "^1.20.3",
+        "cors": "^2.8.5",
+        "express": "^4.21.2",
+        "mysql": "^2.18.1"
+    }
+}
